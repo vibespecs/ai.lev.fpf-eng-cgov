@@ -1,0 +1,3951 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ae46c98855128880e2383543da6587132fe1de338db59dcb3d025c7071a612f0",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1 - Frame the Corporate Matter and Its Governing Rules",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:8fb4b557c6b00775a3ed0150541cfcf1a8b715df1a312d2db3b1944d8caa9796",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:6417a5626909fa2066be894e8fffe4394585a371109bd0d0c6e72a2e1a2b09fc",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:f8e1fd5ec3a3e3227da65d2f90aa29ae7d8d9bf9f17adb1e489ec504f15be718",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:c618ba2ab29fb0d5947e32b2082f8de54e9f0febd6db72ffe725aab46e9cca5f",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#solution"
+    },
+    {
+      "anchor": "recover-the-act-and-the-corporation",
+      "content_hash": "sha256:9c1d5e5c4eaa2bcfc182dc206dfeee6c985a1e947df7b1de3e9560d7879308ff",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:4.1 - Recover the act and the corporation",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#recover-the-act-and-the-corporation"
+    },
+    {
+      "anchor": "find-the-rules-that-can-change-the-answer",
+      "content_hash": "sha256:dd12f0961fbfacfda2f025ccc762e62731fd6bcbdbee25a52439201f53b435c1",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:4.2 - Find the rules that can change the answer",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#find-the-rules-that-can-change-the-answer"
+    },
+    {
+      "anchor": "identify-the-affected-rights-and-the-receiving-decision",
+      "content_hash": "sha256:f9c49510216cd6e460705f0cf51b0123ab2bb552b333f68de8ff3efc38cdf809",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:4.3 - Identify the affected rights and the receiving decision",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#identify-the-affected-rights-and-the-receiving-decision"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:fef0f358f0b42220c322a42cdd418d9637cb6377f8a18d4e2c13e87477d026af",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:7 - Conformance Checklist",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:d0898581f6060d194487ddf311cb074daf7abdc1ece62dad08ee121028de717a",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:9 - Consequences",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f923f0df0ddd4d3721276b91bbb8e12d19da1ed7bbe396d88a6c7942a1712b80",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "CGOV.1:12 - Relations",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:96dfd4e75c2683a02df94a37b9d5a443e420a4b6d1995b6ff356d894c48ff0b6",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "Dependencies",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:1d1e6441caefc44517d2299b31ab804365e582be15e956c473a4650045b61632",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "Dependencies (as published): Applicable corporate rules; spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#root/.3 when relevant rights or authority remain unresolved. @status:spec/done",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:954a936c327923e6cf7012a86c6fe22a4d2e5f4c46f372551b9228475018e3df",
+      "doc_path": "contract/CGOV-1",
+      "file": "vibevm/vibespecs/contract/CGOV-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#root @status:spec/done",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:cbf0551b2b94a0cf604d7debc80efc01fd4bf1567922245cb6e6ec912e30e13c",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10 - Obtain and Use a Scoped Audit or Assurance Conclusion for Corporate Governance",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:0381e544304a7eab9370ffe65e057ed517f8be1539cc2a482bd3b5823781483d",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:9fa21b4af46a80350f677eb89cad14bdf345ca82973041342e86d5b6b1988cff",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:0a3e32c1aa8e76ba9f0bc68aa7f24a8c6533ed467607997519e97a07781bbb17",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:050ac4c37792c586d1feae0d2c68c5131a8143edac0c4b805faa0f9a5a2e4c6f",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4 - Solution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#solution"
+    },
+    {
+      "anchor": "define-the-subject-question-and-required-conclusion",
+      "content_hash": "sha256:0ca5bd2b7b52d1b28de5a586fe0528f121fc0ea6913dd6658dfcc67e29e54021",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4.1 - Define the subject, question and required conclusion",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#define-the-subject-question-and-required-conclusion"
+    },
+    {
+      "anchor": "reuse-or-arrange-the-qualified-contribution",
+      "content_hash": "sha256:f753f8c247cc9c9b40e8bbafb1e495fe54baf749bb6750343139e1136a38b290",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4.2 - Reuse or arrange the qualified contribution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#reuse-or-arrange-the-qualified-contribution"
+    },
+    {
+      "anchor": "enable-the-engagement-without-taking-over-its-conclusion",
+      "content_hash": "sha256:69792ca775ab676a210c7569f61d44d41141465fc22b9c8e325db331ffcb46ec",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4.3 - Enable the engagement without taking over its conclusion",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#enable-the-engagement-without-taking-over-its-conclusion"
+    },
+    {
+      "anchor": "read-what-was-concluded",
+      "content_hash": "sha256:e6a91d368497cd518b890b12cafa088dc3e4100daabf6eee06bc11708640d431",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4.4 - Read what was concluded",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#read-what-was-concluded"
+    },
+    {
+      "anchor": "use-the-result-and-choose-the-continuation",
+      "content_hash": "sha256:6be0ef381a3c980e6dc24bc8c825545855339e489c0dbd6ebecb5a6b14d9bc46",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:4.5 - Use the result and choose the continuation",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#use-the-result-and-choose-the-continuation"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:93e17fea3e10eec9fc4f8f565325e0125ccee53331d76b1fe859ef4490901663",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:7 - Conformance Checklist",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a8828b64efe5836f540c5f7c156f5060eba499912d6dddc3d2b6a96337272c06",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:9 - Consequences",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:8b2b1ba569e4ef269d3c41f60e3c17119e356944d52ae8149a8dfc805dbf2db1",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "CGOV.10:12 - Relations",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:841438b266cff6ddd1a0a0edcddee97c5b90b08361ad8dbd25b5876afe7abde4",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "Dependencies",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ed57b0190d5aac9d29572833c5e4a7d0bce34105ef3fee25c3df0108bf52b114",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#root for provision; specialist engagement methods and applicable standards. @status:spec/done",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:95bd7d0530ea400e661cc74125f101957c987936c6073dcf607acf15aaf9ce24",
+      "doc_path": "contract/CGOV-10",
+      "file": "vibevm/vibespecs/contract/CGOV-10.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#root @status:spec/done",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ec16f433bee401c9dfe82ff7339a4ef390b95425cf58f1ff8b1971b45ee541af",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11 - Make and Record a Corporate Decision",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:187be9799bb2ddf0be19079cf9582f290ff9f16d7af28af042aeae5c1b4723e9",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:399dcfd93a0d473246a8db17423bf3a128c4283daf9e1850b2d97ab43011f83f",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:abdb027b052634d89d5094550f423ca530c506527253a1f29edf8d0a017364cb",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:bf1a6936990f4306bd413c3c9626a4b6131cd67965f9b3d5341578c48e08893a",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4 - Solution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#solution"
+    },
+    {
+      "anchor": "establish-the-act-and-its-decision-route",
+      "content_hash": "sha256:4de608d031ee520ca91f460cf9f68c0f0de1236af3ac0c57ee20b8417d03a6b9",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4.1 - Establish the act and its decision route",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#establish-the-act-and-its-decision-route"
+    },
+    {
+      "anchor": "prepare-the-matter-and-eligible-participation",
+      "content_hash": "sha256:a7ee7d0baffaf4c44993d58422807669fe6555394fedc92995a47f9be15c84f7",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4.2 - Prepare the matter and eligible participation",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#prepare-the-matter-and-eligible-participation"
+    },
+    {
+      "anchor": "deliberate-on-the-actual-choice",
+      "content_hash": "sha256:41221b086005f3f02cb4bc5df25064f0dfbd240bbff4d3c75be2dfa4839103a6",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4.3 - Deliberate on the actual choice",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#deliberate-on-the-actual-choice"
+    },
+    {
+      "anchor": "perform-the-permitted-decision-procedure",
+      "content_hash": "sha256:0e15af347110df88d27f9ddfeab80700f00682c5dc6dc08105c93571a47740ed",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4.4 - Perform the permitted decision procedure",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#perform-the-permitted-decision-procedure"
+    },
+    {
+      "anchor": "preserve-the-outcome-and-enable-its-proper-use",
+      "content_hash": "sha256:0a8e2cc742e4e6607558bf0205a44a494c842cc7d3c2ea33e2bc2fea2887529e",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:4.5 - Preserve the outcome and enable its proper use",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#preserve-the-outcome-and-enable-its-proper-use"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:98d3a8480bcc945f355265a60f70ed67641127f7d22457106faf069693a14dff",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:7 - Conformance Checklist",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:1eab5d6f958844393a05df35b0e45155fe8fffbd0c8df522f759e2d194cb3017",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:9 - Consequences",
+      "line": 85,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:0520ae4c9727181e13dceb97a7b6284ba9809babe43df17e4184e23b9fa29c99",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "CGOV.11:12 - Relations",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:64e0c90d81c944dc5c20ffb1da5f639a322aaf4e02b9c661007658f7be816b8b",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "Dependencies",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:3557a85c3e23a8233aa963a0c6ca830e00b8b8ae83166485eb203e790be563af",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root/.3 and any needed spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#root–spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#root results; spec://ai.lev/fpf-eng-psd/contract/PSD-13#root may supply advice. @status:spec/done",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:fa30daffbab926317dfb4a728d35adb9ebc4f0c5600ef5530974a753faa94202",
+      "doc_path": "contract/CGOV-11",
+      "file": "vibevm/vibespecs/contract/CGOV-11.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#root @status:spec/done",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:0febecc8653dc32c2ff4f4ba35832c9a3bc1a85b1b17d13d659db14fc347256a",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12 - Protect Corporate Minority Holders' Rights and Enable Contest or Exit",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:679de86f3cf204aabb08515db5be9993c6add115d733037a3eb4553a950e2f68",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:6e868acf39ed9ed5b416921c79cde2f0789dd097c279869314f0ac9fbcd2423b",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:3a5f6c3ea0c953b8cb821b5a52ec92e10ecf95fd832cf29e26a15c509490c5c2",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:f749ae1de143ebe5f1dbc557391bdac749b805e5e5ba1713d8930641dd2d6a7f",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4 - Solution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#solution"
+    },
+    {
+      "anchor": "identify-the-affected-right-and-proposed-act",
+      "content_hash": "sha256:2c68b6be52b2a89810be7c796e52a4c84ab6be109cf77871909791acdc2588fb",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4.1 - Identify the affected right and proposed act",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#identify-the-affected-right-and-proposed-act"
+    },
+    {
+      "anchor": "preserve-the-choice-before-it-expires",
+      "content_hash": "sha256:86a8134066268a1d1cd4297fff891cf73563f2a31269296b8c83dc757251fb67",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4.2 - Preserve the choice before it expires",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#preserve-the-choice-before-it-expires"
+    },
+    {
+      "anchor": "compare-the-available-protection-contest-and-exit-routes",
+      "content_hash": "sha256:21427fdbd0d70049c8e612c83cfa5679ecbb575357d6df05a7ebe3a7c2c03708",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4.3 - Compare the available protection, contest and exit routes",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#compare-the-available-protection-contest-and-exit-routes"
+    },
+    {
+      "anchor": "perform-the-selected-action-through-the-competent-participant",
+      "content_hash": "sha256:37b2f12e8edffd7bb10aec67e2a29ae6736f67fe53e446ab92fad68c38371202",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4.4 - Perform the selected action through the competent participant",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#perform-the-selected-action-through-the-competent-participant"
+    },
+    {
+      "anchor": "establish-the-result-and-remaining-use-conditions",
+      "content_hash": "sha256:5026cd6bf9b34ec43d8f72f520273674833a9bafb3b1b736c41be2f0494f3cbe",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:4.5 - Establish the result and remaining use conditions",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#establish-the-result-and-remaining-use-conditions"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:3eac633c548409b3b0a3416abfca698d03b52ff170d237b4eac2dc1e2837dcf6",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:7 - Conformance Checklist",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e153084f40c3735d9846e08b610dc98a5703835a6cd65035d3d840292465ce81",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:9 - Consequences",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f042751b9b30f45df6f3e0d979b0528310cb94fdb65d6f732d64f5708d247067",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "CGOV.12:12 - Relations",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:300d28c96741cc76ebc828de26af56e4e97d4b921233795639aea4e6a5ab4597",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "Dependencies",
+      "line": 98,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6b76eff96d1d6301230b6241f420d7a0262c11e34e4b716e8c1a44685815e96a",
+      "doc_path": "contract/CGOV-12",
+      "file": "vibevm/vibespecs/contract/CGOV-12.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#root/.3/.8 for relevant rights, powers and information; the applicable remedy or transaction method. @status:spec/done",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:dcfdc701dd90541951feef89d19ca5d515a6d2c6c6ce505b71462ab0cac5aac2",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13 - Monitor Corporate Performance and Require an Account",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:d1bda0b75657d58db7fc85784334858c821970537a98a4f26a7f38d012ddd558",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:8f424c8160ea577cbc8b48b525e9490d664b98e1fbaf66eba64322cf45cd1ef0",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:2 - Problem",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:427db847e3117b7a10775ccca998bc81999f8db77bec9ee6edd6aa98bddaf138",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:3 - Forces",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:bd07c1cb0cde78526d80a8ebab5f37efdc29dd20e486d3a4804b1d8297c6338f",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4 - Solution",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#solution"
+    },
+    {
+      "anchor": "recover-what-is-being-followed-and-who-must-answer-for-it",
+      "content_hash": "sha256:cec56da98cb6b0fb4d304183103e5a6a9f658290e7a92e02de34819879976bd6",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4.1 - Recover what is being followed and who must answer for it",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#recover-what-is-being-followed-and-who-must-answer-for-it"
+    },
+    {
+      "anchor": "recover-what-the-reported-result-means",
+      "content_hash": "sha256:3741adfcdb0d8a7886dd98a7cb131edbe1a1e82062cc5b1a7c4cf162608c8806",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4.2 - Recover what the reported result means",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#recover-what-the-reported-result-means"
+    },
+    {
+      "anchor": "require-the-account-needed-for-the-response",
+      "content_hash": "sha256:1207882abd179abd55236ffa9aaf488c9b543753c2362b7a8ea4c8a655c839d7",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4.3 - Require the account needed for the response",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#require-the-account-needed-for-the-response"
+    },
+    {
+      "anchor": "select-and-perform-the-governing-response",
+      "content_hash": "sha256:19aeab71cee803ca1770b9b9cc237914112b572e6fc7a4c58bb8bdcce8b7fcbe",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4.4 - Select and perform the governing response",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#select-and-perform-the-governing-response"
+    },
+    {
+      "anchor": "follow-the-response-to-its-consequence",
+      "content_hash": "sha256:a0f8b3ccd646cbb57ad6eb841fe50c83e7aab9ccf0ee839f4fa5e36e8485e5fb",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:4.5 - Follow the response to its consequence",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#follow-the-response-to-its-consequence"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:dd8363467cefd981194c3e1f5f6c6dd65676793efd4f13e35f7548137a4b65c1",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:7 - Conformance Checklist",
+      "line": 82,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:35b11433dfb19fef046f58c17a791d00e0879bce95acb40b8eced0ba975343df",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:9 - Consequences",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:179a61d4a5854438af4e41951cf316523d668494e2adb6898acaf09018d7175f",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "CGOV.13:12 - Relations",
+      "line": 98,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:92c5d1977c38a8216bd0208189010535f6640572172b99be220cd821f0667b12",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "Dependencies",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:52f850cc21f3639957cc4cbe5a671a7f3dd4d388a1a45b65f5cf845403706fa0",
+      "doc_path": "contract/CGOV-13",
+      "file": "vibevm/vibespecs/contract/CGOV-13.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root/.11 for powers and undertakings; spec://ai.lev/fpf-eng-oce/contract/OCE-13#root when organization-change comparison is needed. @status:spec/done",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:fceabe1d2c04ed433f520d1dfcaa4f3565c330ffbe1243f0250c539d5a443f89",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14 - Decide Whether and How to Change Corporate Governing Instruments and Arrangements",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:32961becbdf71bf97fba7dd4829e836dbad7493aa1bf0bc1cdec133cb8c988af",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:e9a882499c2b88773d90b59fb0df21d38ee84899c16a99bc31d11109e97d2c32",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:2 - Problem",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:a4b675766aa15e797d5537ae270fd480d0cd1645707e414040338b212637902a",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:3 - Forces",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:152bc2fbfb291bb6aa3bd5a050735bb235fbfd134f99f197bd0d972188740e74",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4 - Solution",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#solution"
+    },
+    {
+      "anchor": "identify-the-arrangement-and-the-reason-to-change-it",
+      "content_hash": "sha256:de11d5108a9eac07ca996c75612dc6e955fba5533e8f1c3d55efa728b9c5a9f3",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.1 - Identify the arrangement and the reason to change it",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#identify-the-arrangement-and-the-reason-to-change-it"
+    },
+    {
+      "anchor": "recover-the-current-route-for-changing-it",
+      "content_hash": "sha256:4f40a938ba61f88b72c2608496109416749e748131096934673ed443b4837423",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.2 - Recover the current route for changing it",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#recover-the-current-route-for-changing-it"
+    },
+    {
+      "anchor": "choose-the-response-and-make-any-transition-workable",
+      "content_hash": "sha256:e4483e23aea191154704a8fb71714c9595b6bece854163e5d87f2536a63aee16",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.3 - Choose the response and make any transition workable",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#choose-the-response-and-make-any-transition-workable"
+    },
+    {
+      "anchor": "obtain-the-corporate-acts-and-establish-effectivity",
+      "content_hash": "sha256:227b935d4b0b9bc97671065343488e01afeda50d354415b869c2b39755bae22a",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.4 - Obtain the corporate acts and establish effectivity",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#obtain-the-corporate-acts-and-establish-effectivity"
+    },
+    {
+      "anchor": "make-the-effective-arrangement-usable",
+      "content_hash": "sha256:2bc48c9cced0027dc0b37c591436d096e2b0f2750ac7d116c556b2efeb22d4ef",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.5 - Make the effective arrangement usable",
+      "line": 72,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#make-the-effective-arrangement-usable"
+    },
+    {
+      "anchor": "follow-the-consequence-that-justified-the-change",
+      "content_hash": "sha256:648ea9a6e7ab027241a4359a80164049a5fd09e234622f7b52cab223ed970fe4",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:4.6 - Follow the consequence that justified the change",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#follow-the-consequence-that-justified-the-change"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:653674d7f2f0ba7ab9afe20439f619a34e39574fe423d7d8e80410643e2cfb9a",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:7 - Conformance Checklist",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a2b400aaa68dfe04721dc8a186f307b743049abcb3396588e303c08de18d0c36",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:9 - Consequences",
+      "line": 96,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:6b5c74012fafddbefb9350499449a18bdb02c2df44beaddaf2697b107001398b",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "CGOV.14:12 - Relations",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:97ce223767a74903068fe9ed0a01bd85d3dfb4f78ea9aa037092aef733572b4f",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "Dependencies",
+      "line": 111,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ec89bfc3ad4059672c1d15b911a405ca93ef9ff7b2c62e9b43c2ed939f98a520",
+      "doc_path": "contract/CGOV-14",
+      "file": "vibevm/vibespecs/contract/CGOV-14.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root/.11 for powers and corporate acts; spec://ai.lev/fpf-eng-oce/contract/OCE-14#root for a substantive arrangement revision. @status:spec/done",
+      "line": 113,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b94495874d8aff5340cd8d56bb33b938cd4d9762fe49cb87125d75d1751d46e2",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15 - Decide Whether and How to Change Corporate-Governance Methods",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:8d24738dbba0f995ad30d1ee69abd0ff9086ef8dd2f17f7a2cf9ba81100d710d",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:8a3ff1555210fe0e47f363ebe33ace818031ffdd206e8935cad96481e340446d",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:2 - Problem",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:a5431485328387872363b0135ec54f56679aec6100976af5c596623262f7fbc9",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:3 - Forces",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:02d16fed82c413338771d377a385147e3b96bc63931c9bb277311cd85f71cf8b",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4 - Solution",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#solution"
+    },
+    {
+      "anchor": "recover-the-governing-task-and-the-existing-way-of-doing-it",
+      "content_hash": "sha256:a4c788a10a25fa6fc21e0c9a84633747a32aae51944835da71bda5fe98429f81",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.1 - Recover the governing task and the existing way of doing it",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#recover-the-governing-task-and-the-existing-way-of-doing-it"
+    },
+    {
+      "anchor": "identify-what-would-change",
+      "content_hash": "sha256:5627fdb6bf1cb6899bb48047990d2c98fb05393c04dd0d1d897cb08ab90f2605",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.2 - Identify what would change",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#identify-what-would-change"
+    },
+    {
+      "anchor": "construct-and-compare-the-relevant-alternatives",
+      "content_hash": "sha256:9e1a0a5b60b1f5b6f393f69068651b65e2e30ed894ba2dad7fc43e064f43c367",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.3 - Construct and compare the relevant alternatives",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#construct-and-compare-the-relevant-alternatives"
+    },
+    {
+      "anchor": "use-grounds-proportionate-to-the-choice",
+      "content_hash": "sha256:7f45f37f4a03801a8407926477a33f4eb75003787afab584e89c781ac8d10d55",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.4 - Use grounds proportionate to the choice",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#use-grounds-proportionate-to-the-choice"
+    },
+    {
+      "anchor": "introduce-the-selected-method-when-that-is-the-assignment",
+      "content_hash": "sha256:c66fe3604b318964cfbfa7adfc0cbc8c834d7b3152c51838014677b9deecf808",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.5 - Introduce the selected method when that is the assignment",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#introduce-the-selected-method-when-that-is-the-assignment"
+    },
+    {
+      "anchor": "preserve-reusable-differences-and-refresh-them-selectively",
+      "content_hash": "sha256:1245ed9d588633229bf848cb4f87c1fb8b07403366373c96cac2242ad79c98f3",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:4.6 - Preserve reusable differences and refresh them selectively",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#preserve-reusable-differences-and-refresh-them-selectively"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:0d5b1eebd7bc106c6834b4831fef904869ffdbddb4b7f18895c192727933c601",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:7 - Conformance Checklist",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:8716f074a08418b815e10f0506f487ae7ec366846ed090683f176e7fbb97bb79",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:9 - Consequences",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f896c5feb603c5d618b98a8af28a47fb2c16a27bec1473063b9b3b6ac5ce105e",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "CGOV.15:12 - Relations",
+      "line": 112,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:e2edee79abc71511afe0b2b26b45878e3668d84f861f4dcd449482d3accc8dc6",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "Dependencies",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:834efec76b2afbbee097a93f34fed78e00c705e31c52a23af32bda352dd18c53",
+      "doc_path": "contract/CGOV-15",
+      "file": "vibevm/vibespecs/contract/CGOV-15.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-me/contract/ME-6#root when architectural alternatives need comparison; spec://ai.lev/fpf-eng-me/contract/ME-15#root for variants; FPF spec://ai.lev/fpf-spec/contract/C-11-DUA#root for optional inquiry. @status:spec/done",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-15#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:990cc82d3a21d99ebbb7a1b5c8c6dde749519af9f26b617612fdaf8ad18f8b62",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16 - Reconcile Constituent and Encompassing Corporate Governance Work",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:1b665a1a7cc0f5d3139d52e7caacf7d8e7847d94db2f9c72498c9ea90a0a7124",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:d19ff45fdecd107375113ac1c20d694b33edb374b89fb92cfe344764fe537de5",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:34160aa92a1405e21f7e6adb2d4189d0b9108088c27338fc62d3fd1c4516b2be",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:3 - Forces",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:ceeddf22b111ac4174b0b0275f3e98e05ae1672ee1ac6ca9054cf89f86176588",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4 - Solution",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#solution"
+    },
+    {
+      "anchor": "choose-the-action-and-the-failed-or-proposed-performance",
+      "content_hash": "sha256:c5bbae41e58ce7c3d2ca222fcd1ce6ce30e8dc168af86cba50ec4ce74164960f",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4.1 - Choose the action and the failed or proposed performance",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#choose-the-action-and-the-failed-or-proposed-performance"
+    },
+    {
+      "anchor": "recover-the-positive-encompassing-connection",
+      "content_hash": "sha256:01ea01d0d6afbb6f6f17d78c78776007265bee982ed34e24f0fbaacee6a6d5f7",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4.2 - Recover the positive encompassing connection",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#recover-the-positive-encompassing-connection"
+    },
+    {
+      "anchor": "recover-the-constituent-contributions-and-their-availability",
+      "content_hash": "sha256:dd11b32ab7cd51c89bc73ead155b9636b7dc3251facf013f073d9e2d79e3fc41",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4.3 - Recover the constituent contributions and their availability",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#recover-the-constituent-contributions-and-their-availability"
+    },
+    {
+      "anchor": "change-one-condition-in-each-direction",
+      "content_hash": "sha256:6f1bd6eff3ed09af373fcdb5b4996b050e6ea3b91548bfde272df6302eb8a242",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4.4 - Change one condition in each direction",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#change-one-condition-in-each-direction"
+    },
+    {
+      "anchor": "make-the-supported-correction-and-return-it-to-the-work",
+      "content_hash": "sha256:83a116b66091a8c9d87e58ad3f3510795ca471970b3228205758a6a536a4ab14",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:4.5 - Make the supported correction and return it to the work",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#make-the-supported-correction-and-return-it-to-the-work"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:ab505e38778f2dae0f46ecd164af664915ef6ccc80016e34ed9a2aa8d9011cad",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:7 - Conformance Checklist",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:44ef93496e5f9cf6b50c89902d1a451c276449ec7cd4279d1291de01e20fcfc9",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:9 - Consequences",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d20c53ef1c4d68792213d1c4aa464fa6072098cfd70956e882209b938dfa5089",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "CGOV.16:12 - Relations",
+      "line": 108,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:3cffe12a39b97df93a9926520c69b6fe262454003744f269315b0a0213142603",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "Dependencies",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:f924d663f1bf56d9650426d1620f18505b1c56c8725eeea2b318d95a03cc2d96",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "Dependencies (as published): FPF spec://ai.lev/fpf-spec/contract/B-1-5-EW#root for constituent/encompassing enactment; relevant corporate decision or operating method. @status:spec/done",
+      "line": 119,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:6f80ccefe37ac176e16ce796b909281bb17faf659b20ee1a8b99a5b26ecd188e",
+      "doc_path": "contract/CGOV-16",
+      "file": "vibevm/vibespecs/contract/CGOV-16.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#root @status:spec/done",
+      "line": 120,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:687368c7e4f237d3ee7b73e728c11d94572f42c7bacbd49083f40a9483eea1d4",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17 - Deliberately Continue and Change Corporate-Governance Culture",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:54ee9914ac3d4dc25b02425556bebc31cbd4088be460a4ac7e603da9b9c2c412",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:cd0476ec51357421ee49d3f3b4341d1e42d5f67421bc541237850b504be1d5ea",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:2 - Problem",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:e7f27c6ac1dcdc7745368b819e308aca91d9b65a661a2a43f65d795eee0bb712",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:3 - Forces",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:5a878bf9e4e77c6b3e0d062fbe232805f98a1a9aa93b005c01d4bacaf88e50f0",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4 - Solution",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#solution"
+    },
+    {
+      "anchor": "bound-the-practice-and-the-question",
+      "content_hash": "sha256:856b966438748579cb3482c90ef18a5234500be19f6ac2e07676262bcfc77143",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.1 - Bound the practice and the question",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#bound-the-practice-and-the-question"
+    },
+    {
+      "anchor": "recover-the-practice-that-participants-actually-use",
+      "content_hash": "sha256:73fd78b9abb0218d25194243c7fd0079ac264131428e2c3a2c532f76b41b6d08",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.2 - Recover the practice that participants actually use",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#recover-the-practice-that-participants-actually-use"
+    },
+    {
+      "anchor": "locate-the-missing-contribution-and-its-cause-far-enough-to-act",
+      "content_hash": "sha256:2a5591d9817ea3e140182d90a94d836c71bb10f671fa324f6ae9df3ed09a01f1",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.3 - Locate the missing contribution and its cause far enough to act",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#locate-the-missing-contribution-and-its-cause-far-enough-to-act"
+    },
+    {
+      "anchor": "arrange-the-suitable-means-of-continuation-or-renewal",
+      "content_hash": "sha256:3dc574baf395258582ec7bded391793fbee98dca057b3adec822088d94af5a66",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.4 - Arrange the suitable means of continuation or renewal",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#arrange-the-suitable-means-of-continuation-or-renewal"
+    },
+    {
+      "anchor": "carry-the-contribution-into-receiving-work",
+      "content_hash": "sha256:563ae6ff6cdd1c97dba5e78ced3e12c32cc033a6d1a478a75d9c003c30321313",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.5 - Carry the contribution into receiving work",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#carry-the-contribution-into-receiving-work"
+    },
+    {
+      "anchor": "retain-the-means-of-use-and-reconsider-them-when-needed",
+      "content_hash": "sha256:adb3ea311a19770a7ce000d89c9643aec99779b71d7df1d7224c7f737ccf40ed",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:4.6 - Retain the means of use and reconsider them when needed",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#retain-the-means-of-use-and-reconsider-them-when-needed"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:259c811faff2636b54b804d8fff7e458426bf258a791496aba612206a5a9a0d6",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:7 - Conformance Checklist",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:28d050f6e75abf83de4da9fdb72294c02980e52fa1ad4aaffddf5251934e844c",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:9 - Consequences",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:02ea2ea7a6930e07a1e708196557cd6311e52f7541d1eabc2b7559b8bf8d3a23",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "CGOV.17:12 - Relations",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:b0dd54782af1021da3946a3f65e19382cc91be8703a61f5bb9133f258097c9a2",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "Dependencies",
+      "line": 118,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:e04e50ec6a8694e763c42a32bb92426eb1b0a092823900468c6f879dd6d532b1",
+      "doc_path": "contract/CGOV-17",
+      "file": "vibevm/vibespecs/contract/CGOV-17.md",
+      "heading": "Dependencies (as published): FPF spec://ai.lev/fpf-spec/contract/C-36#root and spec://ai.lev/fpf-spec/contract/C-36-RP#root for cultural relations and continuation; spec://ai.lev/fpf-eng-cgov/contract/CGOV-16#root for a missing constituent contribution. @status:spec/done",
+      "line": 120,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-17#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2b749f475634a149fb08a8950c69ed28655ac4075cdd4120cb5159970c0f779a",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2 - Distinguish Shareholding, Voting Power, and Control",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:cc97bca67fbc904af8da802dd1b7b639878e68b29d86535de989d8e8db0d0385",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:b6270ee4fcfcfc9bf01aec53e62cb97e7f68045dfaa428e137b760fcdad91bd0",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:0b591b6c8d8a97fb570652817dfc9d1e61b5204631d9bb67f13c4a69fac66095",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:a3b895fcf91ad518c2e717ef379c528547983419f9b5084167aa780486a39a41",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#solution"
+    },
+    {
+      "anchor": "ask-which-outcome-depends-on-the-holdings",
+      "content_hash": "sha256:c2231a2535458ec86e99b433ac9bc13cddca091aedd5dd528515dabd7b561a82",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:4.1 - Ask which outcome depends on the holdings",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#ask-which-outcome-depends-on-the-holdings"
+    },
+    {
+      "anchor": "recover-rights-before-calculating-percentages",
+      "content_hash": "sha256:df42545ef1e296631b306d54876fd96624c03e65f9241168538e8e0ce6812229",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:4.2 - Recover rights before calculating percentages",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#recover-rights-before-calculating-percentages"
+    },
+    {
+      "anchor": "calculate-the-relevant-entitlement-and-possible-outcome",
+      "content_hash": "sha256:e44c9aa885fdbe068b9d1e81cea912784770f5d9e87c3ded99bd82d753a7cc94",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:4.3 - Calculate the relevant entitlement and possible outcome",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#calculate-the-relevant-entitlement-and-possible-outcome"
+    },
+    {
+      "anchor": "return-the-decision-relevant-account",
+      "content_hash": "sha256:62356b2be67ae62126698f14cd88145609f2536be3d5a600a11f5151fd882654",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:4.4 - Return the decision-relevant account",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#return-the-decision-relevant-account"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:92749526fc44cac2f63b663e6704cd244c9516a6e09760e1300c7ee939dd30a5",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:7 - Conformance Checklist",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:7686103f1f702e22a5474551057f5e8b07c0fe067a2e5a3b2cfb2301e189b7a8",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:9 - Consequences",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:401d2c71e921890bffa71dffb544edb88e7bcef6c8ca4edc8bf929d4558f8d12",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "CGOV.2:12 - Relations",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:245e549347ebed4e76d72aa8e0bfebb14101c51f59a351655076e29226e53ca7",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "Dependencies",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:383137f54d8bbb8300a5eff90e39c44579d1775d7936bc299c4a2bf86b43f3b4",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root for the matter; FPF spec://ai.lev/fpf-spec/contract/A-6-REL#root for the distinct relations. @status:spec/done",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:71c0425a2308c31170f8306c3f38e426178206c14b15a3d81089a4bd79b57adf",
+      "doc_path": "contract/CGOV-2",
+      "file": "vibevm/vibespecs/contract/CGOV-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-12#root @status:spec/done",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:74116df8c6a9de135955732808323389e695c7e26431e46b8e694038ddbb4602",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3 - Establish Authority for Corporate Appointments, Removals, and Decisions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:0773c2050468d197bf308b7bc6e2852ffe0279429ad985a515ff345606dacb27",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:e24e8ff0a253629c28699caeb426a72843c6c7494aea4c81d2fc3645d0ba501a",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:706a4dbeb7a160fbfd8053566070fa07fb20fbd85c81246dd9d7353731941f98",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:36af1203b850c1650398bf922b7b98ef2a3b9a2222aa457639fab6144bab8380",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#solution"
+    },
+    {
+      "anchor": "recover-the-source-and-holder-of-the-power",
+      "content_hash": "sha256:a88cb792049f82dda384f0484241875662e0b3cae90118f9a99b1dd95f2a374f",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:4.1 - Recover the source and holder of the power",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#recover-the-source-and-holder-of-the-power"
+    },
+    {
+      "anchor": "trace-a-delegation-and-its-limits",
+      "content_hash": "sha256:31b0013f0968840d40794f27333b9502deb8d21ccf379085c90f3d5e2ea71ef3",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:4.2 - Trace a delegation and its limits",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#trace-a-delegation-and-its-limits"
+    },
+    {
+      "anchor": "determine-what-can-happen-now",
+      "content_hash": "sha256:66fbdf1fdd87efc87ba04436a81281ee6c928b0ae78e337ae0885e7663d73cf7",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:4.3 - Determine what can happen now",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#determine-what-can-happen-now"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:84e7db6820b533d8dedf11596e0d6fbdf85b36a420e7c0c2dcb6fc6bb4a56c9f",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:7 - Conformance Checklist",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:f5cb4bc2ec97223a0dc4a10726b46a5f765e2345b38093923a7d986d79741b50",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:9 - Consequences",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:16884eab4164eb93887b5e442b5da0a10bdb439a6ec840afb17790bb8ac0ca2e",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "CGOV.3:12 - Relations",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:9f2f0076114bed4244c60f579f24f68d19bcab7d95fd9bcfe598814e85d13913",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "Dependencies",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ba087b8034cde6f5886adb2dc8c606bfe34059f9e9c045c44108df01ee8d8e25",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root/.2 where the matter or rights are unresolved; applicable corporate powers. @status:spec/done",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:9a4e875001e9e9375fa7de0069668402bf41b4da97a46c33f07274f246375687",
+      "doc_path": "contract/CGOV-3",
+      "file": "vibevm/vibespecs/contract/CGOV-3.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-13#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-14#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#root @status:spec/done",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c24eb47aec61de03939ff80166bfbc10f7fe89493b39f2ea31bdd5bd6d576371",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4 - Design Board and Executive Contributions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:d498f52e116717c91cacc6dbf7c8aa599c49d901179e7a407f32ee7c8c74d1e6",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:2faa387f8fcfddf6d09128a31ed95254424c7ebbbc9821171968732e50e65edf",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:10c39116f385c6775e98a4d56ed42ed2c056b7317b6fddfa7e6655ba52bd7cdf",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:37da8b94284027ce7585fa74f2ef2a9f21cc1a85a8ceccbc8c49f44c6e65cb42",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#solution"
+    },
+    {
+      "anchor": "recover-the-corporate-contribution-that-is-failing",
+      "content_hash": "sha256:fc59ae73a38b421b172c46442b365b5ebcd7750846dca4543f04581f7531c7ce",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:4.1 - Recover the corporate contribution that is failing",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#recover-the-corporate-contribution-that-is-failing"
+    },
+    {
+      "anchor": "connect-the-contributions",
+      "content_hash": "sha256:dd954a4c8ee4969ed94f0bbf14ec612b2a914a43297a8916e002f949e15cb8cb",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:4.2 - Connect the contributions",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#connect-the-contributions"
+    },
+    {
+      "anchor": "compare-feasible-arrangements",
+      "content_hash": "sha256:9423b0d2d56c490f4d97d95ff5016bf7fb76b74ccb85abb97b46e91b8e7d449c",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:4.3 - Compare feasible arrangements",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#compare-feasible-arrangements"
+    },
+    {
+      "anchor": "return-the-design-and-the-changes-needed-to-use-it",
+      "content_hash": "sha256:c289a81b1f3d97e209d24b5f074111bf4397681cf01718e049bb5fa44b7cb5e7",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:4.4 - Return the design and the changes needed to use it",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#return-the-design-and-the-changes-needed-to-use-it"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:1ad2256ce7a1f14c07ce851ab3c67870b38d019537160d49722334d17c453fd7",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:7 - Conformance Checklist",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e27299d3844038fc598648eb06046f7346b5a0a465635bb3ce7c0e5be6897877",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:9 - Consequences",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:bf7106a6583b43e4048795f77758e4f3da3815ee469c2e5547aff596fa6f0e27",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "CGOV.4:12 - Relations",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:9b09742047e68b0207a85dfc7ea35f2710c16ac95b6569614bba9407d451e473",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "Dependencies",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:54f1f500c437b9ec3375fd907a5923e0d9ea4b41bc279f199f631c31f3a42096",
+      "doc_path": "contract/CGOV-4",
+      "file": "vibevm/vibespecs/contract/CGOV-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root for powers; spec://ai.lev/fpf-eng-oce/contract/OCE-4#root for contribution design and spec://ai.lev/fpf-eng-oce/contract/OCE-5#root where positions need design. @status:spec/done",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ed353742137ba5615ade3d09f9353fb6bd52412bdf0a45712fdd027e4e69e6af",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5 - Choose an Arrangement for Independent Corporate Oversight, with or without a Committee",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:ae6d676c87e4853a244a8388eb385fb67b7d5611db6472f6574fc79796f71b8a",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:ba088069d068c6d03b617a0402ea8a8536a7b15fecdf962ef16c7ddf53482ab3",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:99e451181ac143f139accf00c47ad5fd7f95279a344cb6539166ba8972bfcfbb",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:cde523c53f40a6b3a0aade680331d449431fd3add8a7e4080d90dc94aca873b6",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#solution"
+    },
+    {
+      "anchor": "identify-the-needed-contribution-and-permitted-alternatives",
+      "content_hash": "sha256:af6bdc405c4d64a0c65241e3c6a3b2a725b9ce89dcce18c885c654583fa841b4",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:4.1 - Identify the needed contribution and permitted alternatives",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#identify-the-needed-contribution-and-permitted-alternatives"
+    },
+    {
+      "anchor": "define-remit-and-relation-to-the-responsible-organ",
+      "content_hash": "sha256:9ee1dd17718e5b4861c69c99ca97ce8a62ce7a119e33336a4b790771ab07b6f0",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:4.2 - Define remit and relation to the responsible organ",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#define-remit-and-relation-to-the-responsible-organ"
+    },
+    {
+      "anchor": "make-membership-and-support-workable",
+      "content_hash": "sha256:89f52f38819345d7f0ebcc1236e43527c5d0d9f1bcca962527d6641a61f1fc3f",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:4.3 - Make membership and support workable",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#make-membership-and-support-workable"
+    },
+    {
+      "anchor": "return-the-arrangement-and-its-use-conditions",
+      "content_hash": "sha256:ebac4eef0b36bf814573781934615b306de7a8d78c21d7e5273015e8dca83eb0",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:4.4 - Return the arrangement and its use conditions",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#return-the-arrangement-and-its-use-conditions"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:36123f32ca241a60657408d873538ddf3fa3f87357d2e96c095b5db75ff2ae59",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:7 - Conformance Checklist",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:64754fb24f061db8e0a655c66bfc6ea1aed6ea1e5a09841ed2dfd10c5675edaf",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:9 - Consequences",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d28c9028ff3a5f2736cd766704a33b75cf4725ac1e9238eb01bddc1475681aa5",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "CGOV.5:12 - Relations",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:cd56745f54adc88994f0255dcb360c14d22a1281a6722b9c05db7791e5eb3e5c",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "Dependencies",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:8cc24c82c453d97e8c22171c0cc5be32b0e1e9e87b2158eebfc4a9a6b6d92f1f",
+      "doc_path": "contract/CGOV-5",
+      "file": "vibevm/vibespecs/contract/CGOV-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root/.4 for powers and contributions; spec://ai.lev/fpf-eng-oce/contract/OCE-4#root for arrangement design. @status:spec/done",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:d27737dc8d9445e2b163daddfe5eb5f9a8a575af5e688fd723a43e935d615c88",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6 - Expose Conflicts and Related-Party Interests",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f7b46d53f045792e9d3830e46abaffa9b38da3b37f2f9a0ddf23f5608dcd2868",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:1161043f1100c8cf6ea59464f90a3213bd7ae85a9c2cf102b0f89ab76fafd494",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:eacdc76b2fb78941ea4af2d64016b2d07e4020ae1a691c3111216b876c3bec0a",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:0ba2951863ec3d9de858684943592b86442df885fceda578398fbb35406580fd",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#solution"
+    },
+    {
+      "anchor": "connect-the-matter-participant-duty-and-interest",
+      "content_hash": "sha256:c8597d8efa45a87c3b3cf4d980a0a95e0b9eb2961dc30691c5be545d0af1dbaf",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:4.1 - Connect the matter, participant, duty and interest",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#connect-the-matter-participant-duty-and-interest"
+    },
+    {
+      "anchor": "apply-the-relevant-related-party-and-participation-rules",
+      "content_hash": "sha256:2ee85b70791b2dd81fb679b03cce3fa182703515ff7d6a2496928e904f6a0321",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:4.2 - Apply the relevant related-party and participation rules",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#apply-the-relevant-related-party-and-participation-rules"
+    },
+    {
+      "anchor": "resolve-the-uncertainty-that-changes-handling",
+      "content_hash": "sha256:23eae18c7a59bc0c5e260d1fe69f3adb9c3a7b2ae6592b31339b541e5c2e39d5",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:4.3 - Resolve the uncertainty that changes handling",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#resolve-the-uncertainty-that-changes-handling"
+    },
+    {
+      "anchor": "return-the-conflict-and-its-consequences",
+      "content_hash": "sha256:5f1f2b154c81cba12287d12c6d8bd9036d3b535ddbb1aa58b2900a8eba506217",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:4.4 - Return the conflict and its consequences",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#return-the-conflict-and-its-consequences"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:4a00c5f9c67ecb2bbae1ff3160a2d20c14b8e823df1ff2baa446de0f6da8b385",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:7 - Conformance Checklist",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e6bb2b078436cdc194479cc053d068f1ce71ff18abe9ba23806a6dae88a4225a",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:9 - Consequences",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:b2053f1f965a5114bbfea2c9c1a9fb2caf85fd39bbd649f59f9e18326ed70b1f",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "CGOV.6:12 - Relations",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:7ab87035898adf3d31f18d7a65abd6121cf2a869fc189a4016a2a6f616e2046d",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "Dependencies",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:25671a658cc6a80be495d9546475be191e22cec46aff449d7de2883e5d1a78aa",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root/.3 for the matter and duties; FPF spec://ai.lev/fpf-spec/contract/A-6-REL#root for participants and conditions. @status:spec/done",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:b7ca76598f2c1c549098063d04029e791eab5618a0cfbd5677fed0178eb782db",
+      "doc_path": "contract/CGOV-6",
+      "file": "vibevm/vibespecs/contract/CGOV-6.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#root @status:spec/done",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6217d26922b0a0c5216c119455259408a099aa6b960ba16556d2748d3bc0e41b",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7 - Arrange Independent Review and a Disinterested Corporate Decision",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:fef815e31723aa6f6ad0ad26efd7e5519bd651c935a27fa1e67e7ac5116edd95",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:8cc164d313d9d42b85e2724099c399e967ed716d2d56a90bc06930c98bb5151d",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:681fada3e1d570e887f7ff2e904af6ca3f5abf0ca473b28801523d61bc0c7e93",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:eefdb4afaabcfec8c282cbe04e8012c703f7b877398278a8ecfb20b6bb37d235",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#solution"
+    },
+    {
+      "anchor": "establish-the-required-contribution",
+      "content_hash": "sha256:4f1ddca5d4c5499e14f025ee7dbfb15fb79f4a013120a3b3ea74f9fb1a0c74a2",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:4.1 - Establish the required contribution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#establish-the-required-contribution"
+    },
+    {
+      "anchor": "choose-reviewers-and-eligible-decision-participants",
+      "content_hash": "sha256:bd69c94c356b9518580bf177343adee7a81164a3075ce1b44553b89a71964a26",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:4.2 - Choose reviewers and eligible decision participants",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#choose-reviewers-and-eligible-decision-participants"
+    },
+    {
+      "anchor": "provide-access-and-obtain-a-usable-review",
+      "content_hash": "sha256:6e493b90e0e173bf17e4d9b3efba18b580dc80afcbadec2d39dd1f1c8ab43d9c",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:4.3 - Provide access and obtain a usable review",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#provide-access-and-obtain-a-usable-review"
+    },
+    {
+      "anchor": "connect-findings-to-the-corporate-decision",
+      "content_hash": "sha256:a0f33db9459043b53eca5eeb40a4715b055b9322aa7c380924b659cb593ecc32",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:4.4 - Connect findings to the corporate decision",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#connect-findings-to-the-corporate-decision"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:0255445f533ede7aa4aa7bca056e6881a8bf8071e0f63a9ad41b168b708ab8bd",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:7 - Conformance Checklist",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:466668fc95af01f77376bf82a16587e8d2f151f30b419cea3d099cfcc67fd312",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:9 - Consequences",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:1678c0cf87d10d89c9e5f7ed2025a05f713021c12e7baa453bb090c6bb59889d",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "CGOV.7:12 - Relations",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:e6b19a4bfc4bd1be3ebbaa819b3013875851556829e1007c48dc5a445bdbfad1",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "Dependencies",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:31bfb0acde6e5d1830af247916756071fdc1e89c3e4cb542caaff687a90be453",
+      "doc_path": "contract/CGOV-7",
+      "file": "vibevm/vibespecs/contract/CGOV-7.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-6#root for the conflict; spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#root for information; spec://ai.lev/fpf-eng-cgov/contract/CGOV-11#root for the subsequent corporate act. @status:spec/done",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2e45edeb799839088a26e08852ef421341e95a9d8d7f5052d2e13f080f27b8c5",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8 - Provide Corporate Information under Applicable Rights and Duties",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:c38b68b857b42b3cf48d7d3ad0cb9d499431a8f84ed013119b235d3144354f48",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:74af88c2714bc194e54832cf2420d44815f3e129da547206614aaa8d8adc3c06",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:a9305c3111a76af883027a9dde3682d6144b1ee7042c581767b2c6ae0bc4836b",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:a29946fef4c43a9c4a5487b6c39d66c073c2007de3c6a0630fbb4a4f9e77bf6c",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4 - Solution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#solution"
+    },
+    {
+      "anchor": "establish-the-information-question-and-recipient",
+      "content_hash": "sha256:15a012e0afb6e53f2e5d1d70e85865aef4630c6fdce5c869100895f5f555d47e",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4.1 - Establish the information question and recipient",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#establish-the-information-question-and-recipient"
+    },
+    {
+      "anchor": "select-sufficient-content",
+      "content_hash": "sha256:67f6e49ea89df80b2703897f48a55a08435e387edb5b6efa917a76e4b3029a32",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4.2 - Select sufficient content",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#select-sufficient-content"
+    },
+    {
+      "anchor": "resolve-access-and-confidentiality-together",
+      "content_hash": "sha256:cb15c702f5565f857b3eac9b26d0f0d70ddfc706db44f55b8dece3fc2405622d",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4.3 - Resolve access and confidentiality together",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#resolve-access-and-confidentiality-together"
+    },
+    {
+      "anchor": "provide-the-information-and-establish-the-relevant-completion",
+      "content_hash": "sha256:3203e0ee394708f814d597d715073a0c5a17124c09db03f20d7f05ac07968689",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4.4 - Provide the information and establish the relevant completion",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#provide-the-information-and-establish-the-relevant-completion"
+    },
+    {
+      "anchor": "maintain-the-answer-through-the-decision",
+      "content_hash": "sha256:6a88c4be1713f6286153c66357284ee920b57cdd1068c107e84308070b3d6b8f",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:4.5 - Maintain the answer through the decision",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#maintain-the-answer-through-the-decision"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:8138dbb6753a863eee97c9e0c95ade41c3a1276d3b30d4806478575b386928b4",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:7 - Conformance Checklist",
+      "line": 72,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:43a6dd45291d2b012f865f82ebee9a89b23072d21a9a6e534f98ab8b4d6e8e11",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:9 - Consequences",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:ff87357a7bfed7a1ba97fc4ef283a6ae9b558a513acabcc65374df93edfae177",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "CGOV.8:12 - Relations",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:2f6efaf6955ad3c5b9e2ca8c94aee4659409b23821cbc1834945bcdde6471497",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "Dependencies",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:5661ac986cd8773899e892d131005543bdbdf5551433ccd0ad51719739f61c03",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-1#root/.3 for the corporate basis; spec://ai.lev/fpf-eng-adm/contract/ADM-2#root for permission questions where needed. @status:spec/done",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:ab7be1e7966bab7c834a928f7338356b77301cb9700e182d718c52f52b5eb52f",
+      "doc_path": "contract/CGOV-8",
+      "file": "vibevm/vibespecs/contract/CGOV-8.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-cgov/contract/CGOV-10#root, spec://ai.lev/fpf-eng-cgov/contract/CGOV-7#root @status:spec/done",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-8#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:961081936c11f2cead502868a2e5c89e78a18a586a46dd1ae45b1411d213e8f0",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9 - Establish and Operate Internal Control",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:1682933cbc38095622369889f018e3e3083b9d5685ed829113747349d0f114ab",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:39edc4151d7aa58b21d34844945322ef3d14f9b3b5c7b19a40b49b4e08ad473c",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:aaebfb7f29a04d8b86f5ce8a4cbd6c953de34072f432eefb17dd596f85c68863",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:ffc30087bf2c2465cc63d1c37fbd4af0db570ffdb94e68d4800b4dcafea8c0a3",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4 - Solution",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#solution"
+    },
+    {
+      "anchor": "identify-the-objective-and-exposure",
+      "content_hash": "sha256:2a567caea54ca7051f425c57053de2c83ab0e91d3482ef45e70fc839f8531527",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4.1 - Identify the objective and exposure",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#identify-the-objective-and-exposure"
+    },
+    {
+      "anchor": "choose-a-useful-control-and-response",
+      "content_hash": "sha256:91bf245de80a39cde94a94ef424e53bca6f6b29bed33fb2d1f5c7b8ce8b87219",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4.2 - Choose a useful control and response",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#choose-a-useful-control-and-response"
+    },
+    {
+      "anchor": "establish-the-ability-to-perform-it",
+      "content_hash": "sha256:6ec9ec499c4231777f7a722065e3285569c5e5ccbfd0f04abebcd5d6287346d3",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4.3 - Establish the ability to perform it",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#establish-the-ability-to-perform-it"
+    },
+    {
+      "anchor": "examine-operation-and-interaction",
+      "content_hash": "sha256:0d5d17c32addb87e4f11f2125844c805c06dbc24210995afc48d82734ee89f51",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4.4 - Examine operation and interaction",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#examine-operation-and-interaction"
+    },
+    {
+      "anchor": "correct-and-return-the-governing-result",
+      "content_hash": "sha256:6aaefc68337e850d1b32a5306bd277f93b9be2bdda1a5798fd1be33a080a051e",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:4.5 - Correct and return the governing result",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#correct-and-return-the-governing-result"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:22372d97e263438bf8e88485996bd7a9d52bbd49da9574833124137af5bd7e76",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:7 - Conformance Checklist",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:78053465e273c7a7b490b12e0ee3611199d1bfef57bc89945c04e9bb5a964f04",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:9 - Consequences",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:25174bbaca4374d452117a20e771aa18de010de6bb3c4664e727a8f0d3dacfb9",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "CGOV.9:12 - Relations",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:ed96c1938504026b56ff2078b9ab2ded7df6532f140d85051ed30e27606edc11",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "Dependencies",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:c595e258896a34f17400a6e6e16e8f2cfa45ea88b5941e817f228452763ad93f",
+      "doc_path": "contract/CGOV-9",
+      "file": "vibevm/vibespecs/contract/CGOV-9.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-cgov/contract/CGOV-3#root for authority; spec://ai.lev/fpf-eng-ops/contract/OPS-18#root where an operating-control contribution is needed. @status:spec/done",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-eng-cgov/contract/CGOV-9#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2ee0ea53d607631c41e4733d1850d8c85561829bfc20afa4b10d2db404e0d1e8",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Corporate Governance Principles Framework",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:683dc2bd25feb53b36430d3e97980ddcaa77e8535d487a862aecfd1a2637d38b",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:fd53f65f6796ad8285724d2439d92f51ebd57aec23782d8b3c32ee0306c05d9a",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:1 - Problem frame - Governing a corporation through particular acts",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:0bbf3ae56dcd57c98b08c335b5fee72736b8b82c654fac6edf7d35c6ebfccc44",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:2 - Problem and forces - Joining competent contributions into an effective act",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:1727052a363921b1761f039efa0a3d4aa6d2e8df77ba3283d6de60251fd7cac5",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:3 - Solution - Choose the receiving result and connect the necessary methods",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "cgov-preface-3-1-a-vertical-of-work-being-performed",
+      "content_hash": "sha256:576b58b97ede7db2e7eb0cfbb957ee4e81883bf6d25f1bccc223a96d28c4012c",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:3.1 - A vertical of work being performed",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#cgov-preface-3-1-a-vertical-of-work-being-performed"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:c2fdb8cf29f4fc615b8c6eada06b00d3ce1cbce4187a90f839967b2b61ca1dff",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:4 - Archetypal grounding - A bounded pilot commitment",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:1c7953dbb30856af6d42aea1a1558792d92682dc54953842f724e8be97fd8ae4",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:5 - Bias, limitations and consequences",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:8ccd48d0c1f93af8894fdf9ead59613dbcaacdcd930a4769693e054e020b2d0d",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:6 - Questions for use and recurrent failures",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:53ad3589db086f61dd8f97ddb647e63b0885d68993c0215436ca44bb9fcc2c54",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:7 - Architectural Rationale",
+      "line": 104,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-8",
+      "content_hash": "sha256:1d36a989cc13fb4b276640b067503d5718b612e1bb60a37dec22a1e29262e914",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:8 - SoTA-Echoing - Source contributions and their limits",
+      "line": 116,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-8"
+    },
+    {
+      "anchor": "preface-9",
+      "content_hash": "sha256:a0e3264de5c15e5ff8b2dde4f16b873cc6b423d2385a2794e70c00133a9f3eb6",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:9 - Relations, dependency and refresh",
+      "line": 131,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-9"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:50a12db38c916c816d4cf65391d4903411a2215fa0e6a63cbc00d0331e9e66c0",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "CGOV.Preface:End",
+      "line": 153,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ce4463571d5d9202805148edb622c8180e1b7c471103abcabc4ffbfe86cb203c",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Corporate Governance Principles Framework Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:1b5ae25550c049708fc591f2b34b64f6f9154e49ecb09a05795a0b823ed57b88",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/README#practical-entries"
+    },
+    {
+      "anchor": "cgov-delegation-can-this-director-sign-the-proposed-commitment",
+      "content_hash": "sha256:18306d84371f439b1164baef2c2843dd14ad595aa8d3516c34b1e4747df61f5d",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CGOV-DELEGATION - Can this director sign the proposed commitment?",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/README#cgov-delegation-can-this-director-sign-the-proposed-commitment"
+    },
+    {
+      "anchor": "cgov-conflicted-matter-bring-an-interested-party-transaction-to",
+      "content_hash": "sha256:eaf5bb98ca0fbc5af1df67f3030640e3783eea5bb780a47c611ba44a44612b7d",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CGOV-CONFLICTED-MATTER - Bring an interested-party transaction to a corporate decision",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/README#cgov-conflicted-matter-bring-an-interested-party-transaction-to"
+    },
+    {
+      "anchor": "cgov-receiving-work-restore-useful-participation-after-a-change",
+      "content_hash": "sha256:7fa1768fd58d44efed8da5ddd80fe79ed0df4b5c174ff947589248f106b221f0",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "CGOV-RECEIVING-WORK - Restore useful participation after a change of directors",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/README#cgov-receiving-work-restore-useful-participation-after-a-change"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2c1d5854a6d1c0574c20393861182ef2d6a2dfab47c11ca82fed542dcb7fa57b",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#root"
+    },
+    {
+      "anchor": "public-units",
+      "content_hash": "sha256:19042727b7a6d0fa5d373e82ab781c1c876e4624491dcc54547fefd40542e77e",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Public units",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#public-units"
+    },
+    {
+      "anchor": "part-i-corporation-rights-and-powers",
+      "content_hash": "sha256:40e427806a21ddf9aa53cfee4b1632ca85aac64846ab8dc1660de80ddca265c1",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part I - Corporation, rights and powers",
+      "line": 14,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#part-i-corporation-rights-and-powers"
+    },
+    {
+      "anchor": "part-ii-governing-contributions-and-conflicts",
+      "content_hash": "sha256:8bc70df9266f798b2fc0b23e85f1b6c7b2ca2d76070b21c6919eb9a0360a0ec3",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part II - Governing contributions and conflicts",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#part-ii-governing-contributions-and-conflicts"
+    },
+    {
+      "anchor": "part-iii-information-control-assurance-and-decision",
+      "content_hash": "sha256:c3588af9a61de2dabb52001e2907318ee92936064b8b8c422b2848457b768e80",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part III - Information, control, assurance and decision",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#part-iii-information-control-assurance-and-decision"
+    },
+    {
+      "anchor": "part-iv-rights-consequences-and-renewal",
+      "content_hash": "sha256:f1f8e0f748d867b69efc2dbbd20c8a39887d32f03219f737c37a981775af9e42",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part IV - Rights, consequences and renewal",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/TOC#part-iv-rights-consequences-and-renewal"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:4cae5fa2a0891c2cf65470e1c88960c9a55f8d907ec7d18146aeb5a735932617",
+      "doc_path": "pub/parts/part-i-corporation-rights-and-powers",
+      "file": "vibevm/vibespecs/pub/parts/part-i-corporation-rights-and-powers.md",
+      "heading": "Part I - Corporation, rights and powers",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/parts/part-i-corporation-rights-and-powers#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:e988b06a3192e3d8737a66b5440aa0eb94b77bdc3b57c91ea855bca636ee3c63",
+      "doc_path": "pub/parts/part-ii-governing-contributions-and-conflicts",
+      "file": "vibevm/vibespecs/pub/parts/part-ii-governing-contributions-and-conflicts.md",
+      "heading": "Part II - Governing contributions and conflicts",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/parts/part-ii-governing-contributions-and-conflicts#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2800b32c80ea48e8e52bddfb4be0c7d9d1ca5436fe2c5f696003ad9fce03fe3e",
+      "doc_path": "pub/parts/part-iii-information-control-assurance-and",
+      "file": "vibevm/vibespecs/pub/parts/part-iii-information-control-assurance-and.md",
+      "heading": "Part III - Information, control, assurance and decision",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/parts/part-iii-information-control-assurance-and#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2e5a471477c8130b85722efb6ca25f7ebef9ef1d3101c781fd92e608ce0885dd",
+      "doc_path": "pub/parts/part-iv-rights-consequences-and-renewal",
+      "file": "vibevm/vibespecs/pub/parts/part-iv-rights-consequences-and-renewal.md",
+      "heading": "Part IV - Rights, consequences and renewal",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/pub/parts/part-iv-rights-consequences-and-renewal#root"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:4e784df759abb366f420326b24ad843d9bc93572d2c0be4739792583d1fc84d8",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1 - Frame the Corporate Matter and Its Governing Rules: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:a0a6459ef6d4560a3973e6f7b85edba1484a0953c25a2efd4a210fc0eba1ba19",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#archetypal-grounding"
+    },
+    {
+      "anchor": "a-guarantee-requested-from-the-group",
+      "content_hash": "sha256:b40b3944d00df43cd1c96e50fc962fefc914f831ae5be8678c0211f415d4eaf7",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:5.1 - A guarantee requested from “the group”",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#a-guarantee-requested-from-the-group"
+    },
+    {
+      "anchor": "a-shared-chair-two-corporations",
+      "content_hash": "sha256:89694725989bbae8cacd99183b13b48e9ff1c6b5d035b78fabb2bcee310c65e3",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:5.2 - A shared chair, two corporations",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#a-shared-chair-two-corporations"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:d16d019c800ce2a63f4a49c202d8a112c8f5a191cfb87ddcb43550d39aff6f51",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:6 - Bias-Annotation",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:0b5d4adb3abd8a13302dae4920f6266692f91ff53faca885a7af2f6ec3b6f2f7",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:4f5364fe40f25c3db2132cbeaaa9b63584355930b3f67d9ae8fb4308aa3ca50e",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:10 - Architectural Rationale",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:444cb6cbde2ccff88654403c04e0c257b62aaacf5d73fa0f13d6f641279c0db6",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:11 - SoTA-Echoing",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:a5dd282da424e0ab7db4c634b4e10458885d8c5387a32bc1d8952592b34e58f0",
+      "doc_path": "source/CGOV-1",
+      "file": "vibevm/vibespecs/source/CGOV-1.md",
+      "heading": "CGOV.1:End",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:d4b90cf5be51a666e8518f7748a3642f2d2db7339b93cd55fd05f56f8f6ed2f7",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10 - Obtain and Use a Scoped Audit or Assurance Conclusion for Corporate Governance: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:3ff063f50ee0d45531c2e8371c106dd0de0afca7d2d54066f260ca3b63f4bc7b",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#archetypal-grounding"
+    },
+    {
+      "anchor": "an-audit-of-statements-and-a-new-investment",
+      "content_hash": "sha256:68a8f802a549c43be6868c6f61d469be8e3abeeaf62fc15eeac7f5863aec73e2",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:5.1 - An audit of statements and a new investment",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#an-audit-of-statements-and-a-new-investment"
+    },
+    {
+      "anchor": "design-reviewed-operation-not-yet-observed",
+      "content_hash": "sha256:6beb92bb08841c77bbe3bc3e6b99952ce3de0e09835d5f404627c7a50cd35dcf",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:5.2 - Design reviewed, operation not yet observed",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#design-reviewed-operation-not-yet-observed"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:86dd952f42ce1472d8914202359d29693428e5039be573d100b94ef4c7c33f15",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:6 - Bias-Annotation",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:e045bafe1cc9ef4624e85b563bf25a9667ec24b9097719d8c052da3042b54821",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:efab69e23c776d8fb37e1152aba5d1aa24be356e556aa7a8967518f7c0d40532",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:10 - Architectural Rationale",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:a3462ff825363670c5690f244d2e36c3b01e0435c0123bc35bca539283207978",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:11 - SoTA-Echoing",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:81a50b00ffbaf3313f114a0f984230ad4376f281c721015dd51516b4510c6917",
+      "doc_path": "source/CGOV-10",
+      "file": "vibevm/vibespecs/source/CGOV-10.md",
+      "heading": "CGOV.10:End",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-10#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:e22bb68e94db7000dcc727c3b0751a3de6d0bd8852ffbffecb9e6fdd2370ad6a",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11 - Make and Record a Corporate Decision: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:ccae6c95d284cf2fe699770c354836485cb5fee0de7e7c5db270eb707bf2e679",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#archetypal-grounding"
+    },
+    {
+      "anchor": "a-conditional-purchase-becomes-an-unconditional-minute",
+      "content_hash": "sha256:41f58001390cbd549c3947a0991b98224fec8202ac23cc7562453ec9b4cfb378",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:5.1 - A conditional purchase becomes an unconditional minute",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#a-conditional-purchase-becomes-an-unconditional-minute"
+    },
+    {
+      "anchor": "a-routine-purchase-already-has-its-route",
+      "content_hash": "sha256:6f0a068f173fced4e7fe7aab01c030fec9033fa6cc8bae44ee93aff00fe5865c",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:5.2 - A routine purchase already has its route",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#a-routine-purchase-already-has-its-route"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:0abf9bc45622ff06a4c5bbe7025cb9128ac7d674b1a459cfd33f5b29bb6bb3ab",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:6 - Bias-Annotation",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:629d32936622d7d5d02169f19f4002a049b7d139af4261f42ad67508592e57a7",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:f3c85b26fced296a85937cab8e12de85012b3d55669ac27384a17e4727953877",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:10 - Architectural Rationale",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:394437efdac0ee7623edfbfca6d67e1b87e4f60657640b9dacdf8025b4bdad50",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:11 - SoTA-Echoing",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:df0c9360d2e9173d8cb75b7ea25a3ef48699d7eaa3dc18ee1cf84e9475c76558",
+      "doc_path": "source/CGOV-11",
+      "file": "vibevm/vibespecs/source/CGOV-11.md",
+      "heading": "CGOV.11:End",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-11#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:345badc5670d72720aac6759b1e5b0c81b84827adb9ce9923ffd5219c64a1414",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12 - Protect Corporate Minority Holders' Rights and Enable Contest or Exit: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:c30b758d78c9b907c3568be9f8ebd7ca68f5002c648e5ccb791932a7bce45231",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#archetypal-grounding"
+    },
+    {
+      "anchor": "a-capital-issue-omits-the-choice-owed-to-a-holder",
+      "content_hash": "sha256:1314ecbd9dbaf6370530d0b8ff1369d5e58e63bc78e80e3d1928b6cca2858d1c",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:5.1 - A capital issue omits the choice owed to a holder",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#a-capital-issue-omits-the-choice-owed-to-a-holder"
+    },
+    {
+      "anchor": "an-exit-right-names-a-different-obligated-buyer",
+      "content_hash": "sha256:a813f9743fab3c2c66ff1663fd3443e159fdfb55458897013d2fdbfcf181da8e",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:5.2 - An exit right names a different obligated buyer",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#an-exit-right-names-a-different-obligated-buyer"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:7a27d8caf5ec0391c52f35b58c086f27a8f1a987c3f01b2bac650f245bb58797",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:6ec73cdc7e7c909a8c5d32c53e9120d5a50014cb3401d6f55aa76d0f2d4935e1",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:261cf4be7648678336b1a5898de1bfb56fd8508a0a45f07ff83e2aaa16622b75",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:c6d9377108a5800a93c79d65b9aed44d41e987f088caf9f257b40a80cf520a81",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:11 - SoTA-Echoing",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:38da7fde5e8c243c15de84561ed1f42d410db1b02bba53b8db1fd4f44fa18934",
+      "doc_path": "source/CGOV-12",
+      "file": "vibevm/vibespecs/source/CGOV-12.md",
+      "heading": "CGOV.12:End",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-12#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:cd1b63a25d2ca5495c2cd747367136c694481f0874028270027e8172d42ae4c7",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13 - Monitor Corporate Performance and Require an Account: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:76d07d9e379fe8c4d840a5c5259d648a7cad6436673bec65c320a57fce6d8c34",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#archetypal-grounding"
+    },
+    {
+      "anchor": "a-completed-list-conceals-four-unfinished-deliveries",
+      "content_hash": "sha256:00e9ef5d658b301243858e6f6691caab2a76b07915489cda3de8aedf5d9a572e",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:5.1 - A completed list conceals four unfinished deliveries",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#a-completed-list-conceals-four-unfinished-deliveries"
+    },
+    {
+      "anchor": "an-accepted-uncertainty-materializes",
+      "content_hash": "sha256:a832d0ce1c1403c115602646863d062a6248ed59420f5f913384d4cf3dac198a",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:5.2 - An accepted uncertainty materializes",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#an-accepted-uncertainty-materializes"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:fa3503f4ef3670c26e196451ee24c452585f540929269d7afceb70c0006ca47d",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:b3a9ce8d6d7f70cb443089cec816198f29c8c483a2f13c1be9164d6502b27d1a",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:8c8b95488f74ca0ca15c7febb16f9618012e1650ae43931d07748383b66abc01",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:fd4485e656c3a52b4dc07cd1be40dedd3092c7315b041719c39728c1f749affe",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:11 - SoTA-Echoing",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:1775e90e7750dc2ae6aa5a2c31d4aa11570677765d32d795a0eecf17d61b008d",
+      "doc_path": "source/CGOV-13",
+      "file": "vibevm/vibespecs/source/CGOV-13.md",
+      "heading": "CGOV.13:End",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-13#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:6fb3b622a8f6659e9974694e2def8dde4a028c1e470c256902a148e207adb7eb",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14 - Decide Whether and How to Change Corporate Governing Instruments and Arrangements: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5019bf77bb2bfecfc4df7a73fa373509846f1ea2595222c29fd6f2bee1af7cba",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#archetypal-grounding"
+    },
+    {
+      "anchor": "the-proposed-majority-cannot-adopt-itself",
+      "content_hash": "sha256:6dbe1f12ee2e922c4589b0b9f716c30295485e8e1d809c2ce8b37915138ec6fd",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:5.1 - The proposed majority cannot adopt itself",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#the-proposed-majority-cannot-adopt-itself"
+    },
+    {
+      "anchor": "a-committee-remit-changes-without-amending-the-articles",
+      "content_hash": "sha256:c2bd954ff610eb017686099dca546f7eca40c07001bceae26ff3724844a274ca",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:5.2 - A committee remit changes without amending the articles",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#a-committee-remit-changes-without-amending-the-articles"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:b66c34a67af4046003bb2c1be53202e01170faf609d0138c042c2de09c8f7428",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:bb0ec07f20e2e47c360ce53c9c9ad1628eb6ee121d25bb0723dfd3b8b19f1c9a",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:01eb641a303144e45df052cb818835a7d8bc2f8869032b2d22a433ccf3c32147",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:10 - Architectural Rationale",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:dbf70bf22a16490b0b491417c61010927c49426485e7487803506f2d2c7851e1",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:11 - SoTA-Echoing",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:6ab2d01bc8cb1aa52913ef7e1524f6778d1f4705a105a47180f0489b7736c2b1",
+      "doc_path": "source/CGOV-14",
+      "file": "vibevm/vibespecs/source/CGOV-14.md",
+      "heading": "CGOV.14:End",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-14#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:8b314a637a2644f9e2c3c57d079575a119e203a261a8e3661453b424f9272732",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15 - Decide Whether and How to Change Corporate-Governance Methods: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:f044ecb6fc61ac3e8a06b4ccc41fec544b325261068ca8b07a67951c0328968c",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#archetypal-grounding"
+    },
+    {
+      "anchor": "change-preparation-while-retaining-decision-powers",
+      "content_hash": "sha256:355df56ec84782b54b7e8b4583e099459f5b0d1015002325bf208dc41cfc3f83",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:5.1 - Change preparation while retaining decision powers",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#change-preparation-while-retaining-decision-powers"
+    },
+    {
+      "anchor": "adapt-a-method-to-a-controlling-owner-transaction",
+      "content_hash": "sha256:8daa56059b6ef7c16a85455cb94a1be298857aded6db80398f4e97e39772bf5a",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:5.2 - Adapt a method to a controlling-owner transaction",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#adapt-a-method-to-a-controlling-owner-transaction"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:88bacd025935aa701cedb3e565c289e847dae92f59af3d8318b2d03d390f942a",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:6 - Bias-Annotation",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:e7fdaf386a3abcefe11b075d86afdce02beb0ac9702d4138db15b84cdee3905c",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:2d07105d64510ff5066f8a5ae12df4886d548270a67894dbeaefe88eec169eed",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:10 - Architectural Rationale",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:ae3f18bb7b507502924b8a085609bd836214424f20873fcd0fd0eac53c5d8fc1",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:11 - SoTA-Echoing",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:714a5d3649a69b1693d3bd69ce4b6b5d22b3fcd86676f3ff76c1b5f9fadbc118",
+      "doc_path": "source/CGOV-15",
+      "file": "vibevm/vibespecs/source/CGOV-15.md",
+      "heading": "CGOV.15:End",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-15#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:7111aa74584db7f1c9a1358bb74854a4f0b19b757b3e843d5663687404931633",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16 - Reconcile Constituent and Encompassing Corporate Governance Work: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:6622b600bc18d77651d1b2831d9f2c390c38c91f7938d6249aacb09a269bedbe",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#archetypal-grounding"
+    },
+    {
+      "anchor": "correct-addition-wrong-decision-denominator",
+      "content_hash": "sha256:81119243eb3724ce5666e9530764f31bd9fd41391c917d36397faf544243541e",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:5.1 - Correct addition, wrong decision denominator",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#correct-addition-wrong-decision-denominator"
+    },
+    {
+      "anchor": "a-participant-can-hear-the-original-proposal-but-not-the",
+      "content_hash": "sha256:d416431006bb860cdb17322211baf9f9e0097e54c481c19f6fd91b7e487f855d",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:5.2 - A participant can hear the original proposal but not the amendment",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#a-participant-can-hear-the-original-proposal-but-not-the"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:29bab805f12e6ffad19fecda42a57b0b19b51c4fd252e0eea82efc999b55cb21",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:e9dbca836e735b9e0a06becd36a33457d135a9c3888ea589ff8771aca8b9c41c",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:71af5e90c78f404898a66388185ebbd3fd3118ef138e66f160d894bba616e4bd",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:9162d099921070ee981c89e41da7b4577847f7c198615956fb4dde33a7544338",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:11 - SoTA-Echoing",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:29c7de9359191172f69a5ca5b5368d2e85c7a9867ccfec05b2e33e15c1578e05",
+      "doc_path": "source/CGOV-16",
+      "file": "vibevm/vibespecs/source/CGOV-16.md",
+      "heading": "CGOV.16:End",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-16#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:55f64fc9ad09d674014ba746d8cebabec8a126d530d1b95bd71f49dc79b3ccab",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17 - Deliberately Continue and Change Corporate-Governance Culture: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:fdad8897a72b04e282a0f8e6c476b5a13e0b3cc355c576ff2ba5fda77d3dbdf4",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#archetypal-grounding"
+    },
+    {
+      "anchor": "retain-judgement-across-board-succession",
+      "content_hash": "sha256:9741e19f821f77bd227da6f06c3fce281403167c00859eb6cc1340b51fbeef83",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:5.1 - Retain judgement across board succession",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#retain-judgement-across-board-succession"
+    },
+    {
+      "anchor": "distinguish-distributed-guidance-from-shared-practice",
+      "content_hash": "sha256:e83a8459b6f6b463f794d4b84ed4bef86f82623fd04ed63f6d5a48ee1379a71b",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:5.2 - Distinguish distributed guidance from shared practice",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#distinguish-distributed-guidance-from-shared-practice"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:a35d7e512abeb931859868f51d1a70e9e7d6e6933006a37a2bc6b0ecd1418c72",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:6 - Bias-Annotation",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:ff9956f8415bc5924843a6598072568a2a81e9d79522327502609b9295627a66",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:06dcc76d92fac76efa7a90972df0740817a39ce1c65053ef29798ff952f903b1",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:10 - Architectural Rationale",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:9f38ca939977eefe259c54e664c33ced03b97ffff77d04edc4e01f458cc30039",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:11 - SoTA-Echoing",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:02172eacbac434be6fecc2a5bfc4f629791c70b00e50d3016fd4b9acbc5bf8c1",
+      "doc_path": "source/CGOV-17",
+      "file": "vibevm/vibespecs/source/CGOV-17.md",
+      "heading": "CGOV.17:End",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-17#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:94d20664a2d516258596ba076cd61ff1e947a53827a8260f208f19125ab305f5",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2 - Distinguish Shareholding, Voting Power, and Control: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:0d8b64a7be0f7963d2575f5acd3e956d46f2be3c4a816652d91dbb29bdf23668",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#archetypal-grounding"
+    },
+    {
+      "anchor": "economic-majority-voting-majority-and-a-separate-consent",
+      "content_hash": "sha256:9068856679b9a559d32388e9f2c5b6d50e488bad250931d7b94ef48e7c2215da",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:5.1 - Economic majority, voting majority and a separate consent",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#economic-majority-voting-majority-and-a-separate-consent"
+    },
+    {
+      "anchor": "an-indirect-economic-interest",
+      "content_hash": "sha256:e4a822383a13478150e41866d51ac119ca49b1a8bd26d520a833a9ed3a43771d",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:5.2 - An indirect economic interest",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#an-indirect-economic-interest"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:ce178e05eff0faf4e5bf251504b90c63c36011eb2620aec39ac31f2308e14f0b",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:6 - Bias-Annotation",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:959d21c114a80fca59a3a42615667760a0a9c8f9e10d135a6b21865d0fe697f7",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:063dfb32861921701252517688c015aca2558b0723c8cfa0aec9f25d477ad4d5",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:10 - Architectural Rationale",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:bb33fc988bd49a511b4cb5dab4ad6e6bba9aa6209719651d2a1888fc880683ad",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:11 - SoTA-Echoing",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:69c4a351a049c4bd17cb093f3adfbd10e7c5507a6119c4322346cfa69f07c7ea",
+      "doc_path": "source/CGOV-2",
+      "file": "vibevm/vibespecs/source/CGOV-2.md",
+      "heading": "CGOV.2:End",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:f26245b216dcb4c38ccedd6ec041f22a6bf073c37623853758bdc89393a21a86",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3 - Establish Authority for Corporate Appointments, Removals, and Decisions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:4d60527e31b6616456732e39f0ab067b6fd8aec141b313beba6c552ac46ab7b3",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#archetypal-grounding"
+    },
+    {
+      "anchor": "a-purchase-a-future-appointment-and-a-signing-power",
+      "content_hash": "sha256:b0e0a20558ee7a38e3b876a1b6b6b26ab16b4bbd2131ef1095735aec13462c77",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:5.1 - A purchase, a future appointment and a signing power",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#a-purchase-a-future-appointment-and-a-signing-power"
+    },
+    {
+      "anchor": "a-real-constitutional-example",
+      "content_hash": "sha256:a2f1758a70109db549c7517bf376b09d938a5b38b0a3aa6cc34e7ebfcb5c95b6",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:5.2 - A real constitutional example",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#a-real-constitutional-example"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:6eb982344fb041759d3a3704dffd28a6de34408682e217bbc1fabfa98077f501",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:b094698bf64b1ec8eac5a343a3b3790439974a41313fb85a7fc428350cf54d18",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:29d49dae1cd05e9e5abe7602d6cea614e004ef026c93a00688418fe700808caf",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:10 - Architectural Rationale",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:08fd68401542bee9159da51761c90c5ea9306058f188f6ace2884b2430195b36",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:11 - SoTA-Echoing",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:015ca452c1701a9eec27584e8a4238856ff8d6e064207486fb9e07d5170c1c11",
+      "doc_path": "source/CGOV-3",
+      "file": "vibevm/vibespecs/source/CGOV-3.md",
+      "heading": "CGOV.3:End",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:8711000e17669d7ace429c7b0e01588f48ea7991c7e0621b333d944ea0bb25b8",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4 - Design Board and Executive Contributions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:24f069c2b26d04ea2981ced96f86bb93cee1cfd1ffbb91c77d729384c5cead8e",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#archetypal-grounding"
+    },
+    {
+      "anchor": "a-board-receives-an-investment-after-the-choice-has-been-made",
+      "content_hash": "sha256:0283121811c3412dd16d8207902c2a1d829768f91b7726934ee29908145bff6e",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:5.1 - A board receives an investment after the choice has been made",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#a-board-receives-an-investment-after-the-choice-has-been-made"
+    },
+    {
+      "anchor": "one-person-contributes-as-executive-and-director",
+      "content_hash": "sha256:60d8fed9701ad13bf761755a046d15d3ad40028985af6fc6e57f53dd98942588",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:5.2 - One person contributes as executive and director",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#one-person-contributes-as-executive-and-director"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:8386c41701919f249c8eaf410e0272b56687d90da34182a80dfc7bb0428039a9",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:6 - Bias-Annotation",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:02abe321ece287781dad1acd677ba5c7fd05eed80e3036b4a2a340ba6d1ca202",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:8bb3db061cab32347e19df49194758eb5d9d61321867157b3aada0d9fbceb261",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:10 - Architectural Rationale",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:a2e9462d583f00728cd1652fe75dc816132b2d62a06477b2304989a7f2b765f5",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:11 - SoTA-Echoing",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:502178d9e33c79cca9d72ffaacdbc05eb65280b4861f59792538beb6c8ee9bc6",
+      "doc_path": "source/CGOV-4",
+      "file": "vibevm/vibespecs/source/CGOV-4.md",
+      "heading": "CGOV.4:End",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:8e30229dd3714f39607dbe4f77974670f8895855e94ba44d18c8aae59989f1f8",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5 - Choose an Arrangement for Independent Corporate Oversight, with or without a Committee: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:47639c806c5c84e2c77a2ae28143f9ee2e1ac39702ecd8558f21bdee2d96a28b",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#archetypal-grounding"
+    },
+    {
+      "anchor": "an-acquisition-review-without-a-new-permanent-committee",
+      "content_hash": "sha256:b9f69644e2a42bc9ff067c558bb695ac52eb2d93d7982f22a7a7306a282e48df",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:5.1 - An acquisition review without a new permanent committee",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#an-acquisition-review-without-a-new-permanent-committee"
+    },
+    {
+      "anchor": "a-required-committee-with-missing-capability",
+      "content_hash": "sha256:3e939419112d992a802314949e677dca81c36b381b6b69b56d2c8ada2906d1f4",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:5.2 - A required committee with missing capability",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#a-required-committee-with-missing-capability"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:95b9550b396fd80b9c7d396f160f7aa0b6154d45a057433218e8c2b5b983552d",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:6 - Bias-Annotation",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:cba8f486ab4fec30951a8f259a1e9ea4443929b7a00dead8d4897766f2b61c8b",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:2424dc2a4806f3fc4ba863641d2cc58acb40830019a3eba936d7d3d2887aab98",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:10 - Architectural Rationale",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:3df0bda754e7d1a45106acc876a0db72e77eff4cd90b5cff08bf705c040d2dbd",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:11 - SoTA-Echoing",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:9b57ced6a7e39e1d6ff81cab5becb3647d3979a86229305a0a2eeb862d24c231",
+      "doc_path": "source/CGOV-5",
+      "file": "vibevm/vibespecs/source/CGOV-5.md",
+      "heading": "CGOV.5:End",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-5#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:8d4897835f8e4064ccf5113913fc3842adebe64d79e8ce0aa0b3e95d381def2c",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6 - Expose Conflicts and Related-Party Interests: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:7f990500b33a54e3cdd31264f6ce180b3dafd85727050d0f3e497054ca7a951d",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#archetypal-grounding"
+    },
+    {
+      "anchor": "a-warehouse-owned-by-a-director-s-business",
+      "content_hash": "sha256:54775964c1e06de7e00e032eec85689661965ae57a7e7c03504261627491b73d",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:5.1 - A warehouse owned by a director's business",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#a-warehouse-owned-by-a-director-s-business"
+    },
+    {
+      "anchor": "competing-horizons-and-a-separate-incentive",
+      "content_hash": "sha256:a7a91b90c02b888dbb4a906faa4393471735a7c3ba95f6517f0a0d045fe515f8",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:5.2 - Competing horizons and a separate incentive",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#competing-horizons-and-a-separate-incentive"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:73ec8635f13ae06694cd26de19d91413106377494dfb6cab8d56c3dc6ae7732a",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:6 - Bias-Annotation",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:9f9e7f289d224af7ce61402436b65070a6dd2f6d5791955c638bb63fc8597da9",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:de37b8b65ea5fddba88a859285fb608c6cc9fb06a4edef9bc9abf19bb3913c77",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:10 - Architectural Rationale",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:7e8087cba71d96b0d1f5d36fa665416b1d96a79cf0f2087f9f7f243b33c83bb9",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:11 - SoTA-Echoing",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:5577cd720bdd552b9dbda7a3b6f5be08377f132fa70fe9a987be23d23ded41cc",
+      "doc_path": "source/CGOV-6",
+      "file": "vibevm/vibespecs/source/CGOV-6.md",
+      "heading": "CGOV.6:End",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-6#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:19bc69e1b4fc4340971b664cdd07a778f9a988bf47d98e42ded369f0abc283ed",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7 - Arrange Independent Review and a Disinterested Corporate Decision: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:31c82282de9918c55d70440d2ec248c4efabe28073a6e4aafbaf87f2fde1d4d9",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#archetypal-grounding"
+    },
+    {
+      "anchor": "a-favourable-valuation-does-not-approve-a-purchase",
+      "content_hash": "sha256:9e44f561f4732eaa73e7ea8646173d71729246cded81ce3e76c0a2ae2a9cf7b9",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:5.1 - A favourable valuation does not approve a purchase",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#a-favourable-valuation-does-not-approve-a-purchase"
+    },
+    {
+      "anchor": "independence-or-a-further-report-that-adds-nothing",
+      "content_hash": "sha256:7b38ca97d03f3f4a7f1a815e8aaa9ac4ab6a5ff3c889251612002a64f12c10cf",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:5.2 - Independence or a further report that adds nothing",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#independence-or-a-further-report-that-adds-nothing"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:e5c2262044cb7c990e96f8474521e72cfad55e847e05318a2c070771c8c57ecc",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:6 - Bias-Annotation",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:d8c0a07274ebb0ce66270e2955fd1296007b375799a9ddfa16ff25929bb852a5",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:fc702b08e6df3f0b50525022fbc18167f2d12ef6df7efaade4c83536078f64b5",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:10 - Architectural Rationale",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:f747dfe596ce4141b4d217a08075f44417e7b62b1b5cca66fe75f6d029af8f3b",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:11 - SoTA-Echoing",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:96f7ad65027763394894011c40bfb4f3295b42146530fc71a8251562972030f3",
+      "doc_path": "source/CGOV-7",
+      "file": "vibevm/vibespecs/source/CGOV-7.md",
+      "heading": "CGOV.7:End",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-7#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:ac198b0d604dcabf00c179f1fa77ae99e50d5dc8e514988b312b25082d521038",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8 - Provide Corporate Information under Applicable Rights and Duties: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:2b69042768a528bbb0f05e4f7962f6fab538f2974df4ddc4a17cdad0c98bc4de",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#archetypal-grounding"
+    },
+    {
+      "anchor": "a-summary-that-retains-the-material-conditions",
+      "content_hash": "sha256:0ac30973fe401955ac3044a0f9239f340a330cb52481c698810963b842a9f744",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:5.1 - A summary that retains the material conditions",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#a-summary-that-retains-the-material-conditions"
+    },
+    {
+      "anchor": "a-valid-right-and-failed-access",
+      "content_hash": "sha256:0d5b5db0c8c4db279d215d2f8980658aa1914604769b66d28726d0e444802314",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:5.2 - A valid right and failed access",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#a-valid-right-and-failed-access"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:f542763c7c2297bd66882ed772326ef57f14d1f48472f33dcb0b006b9a0c46de",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:6 - Bias-Annotation",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:768191c1a7c1254ec14bcd66594b86b22e917f0306e18375121c586d228085a6",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:8f05d0afb33c80d92bda546dbb7b124d75ed5ff9829936c57c31a7aeace5b26e",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:10 - Architectural Rationale",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:bcfd0d589fe9144c87e0506e20ce99d7c17bd948f1a733c0d835301095d2e7d7",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:11 - SoTA-Echoing",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:6593786975808b79359e5fb204423303a8f5fa963beabb06f0847db63b236d07",
+      "doc_path": "source/CGOV-8",
+      "file": "vibevm/vibespecs/source/CGOV-8.md",
+      "heading": "CGOV.8:End",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-8#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:6539d50505d4b2e6e90044e705b01b823a7def1cca09427d8de8621b983dbc70",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9 - Establish and Operate Internal Control: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:f256dfcbee8223c935ffb92832900a40bb1d286bb8a69937bf89669da0b52ca1",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#archetypal-grounding"
+    },
+    {
+      "anchor": "two-approvals-that-use-one-unverified-instruction",
+      "content_hash": "sha256:36debaa6da573d2bea2da06f1dc96e522c77d30ba7c7bf776963dbdca43ce524",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:5.1 - Two approvals that use one unverified instruction",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#two-approvals-that-use-one-unverified-instruction"
+    },
+    {
+      "anchor": "detection-after-the-useful-response-window",
+      "content_hash": "sha256:ac7aeb4853e236ed07b5b4669404c38ff3400edcf5ab6dadcca9346c5182735c",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:5.2 - Detection after the useful response window",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#detection-after-the-useful-response-window"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:39d8d0fa56f6f6287179511e40ca90cf34bce27cce262c200626ed577bbf85d8",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:6 - Bias-Annotation",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:d272b29a66690eb30769238067d6717b66918fa0b94134b15eedcb2011e73472",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:d2c21939c1168d6cb59755329f025033c9e735082512e022d24cb62b2321c52e",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:10 - Architectural Rationale",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:8df4e02a139816dacaa4db30039dafa4cc160548c2d37cd18dfb2158b4789ccf",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:11 - SoTA-Echoing",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:30263ff1096c0a5895921e5611fa27af5e0e5f746dcd18f527bbf395356074f8",
+      "doc_path": "source/CGOV-9",
+      "file": "vibevm/vibespecs/source/CGOV-9.md",
+      "heading": "CGOV.9:End",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-eng-cgov/source/CGOV-9#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
